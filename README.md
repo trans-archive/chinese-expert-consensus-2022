@@ -20,12 +20,10 @@ DOI: [10.3969/j.issn.1005-3220.2022.z1.001](https://doi.org/10.3969/j.issn.1005-
 
 ## 介绍
 
-- [扫描版](SCANNED.md)
 - [文字版](PAPER.md)
-
-文字版由 [BikerDuality][bd] 进行整理及校对
-
-扫描版由 [septs](https://github.com/septs) 制作，扫描精度 300 DPI
+  由 [BikerDuality][bd] 进行整理及校对
+- [扫描版](SCANNED.md)
+  由 [septs](https://github.com/septs) 制作，扫描精度 300 DPI
 
 ## 其他备份
 
@@ -40,6 +38,12 @@ DOI: [10.3969/j.issn.1005-3220.2022.z1.001](https://doi.org/10.3969/j.issn.1005-
   <https://archive.is/8CS5z>
 
   <https://web.archive.org/web/20221025020328/https://mp.weixin.qq.com/s/XTv0ji9GZEGbNpBt1mFWVQ>
+
+- [中国易性症多学科诊疗专家共识](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=LCJS2022S1001&uniplatform=NZKPT)（中国知网） [PDF 副本](LCJS2022S1001.pdf)
+
+  <https://archive.is/wlPJi>
+
+  <https://web.archive.org/web/20221116113050/https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=LCJS2022S1001&uniplatform=NZKPT>
 
 ## LICENSE
 
