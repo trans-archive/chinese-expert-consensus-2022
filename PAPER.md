@@ -1047,7 +1047,7 @@ DSM-S 的诊断名称是“性别烦躁”，与 DSM-IV 中的“性与性身份
 
 （收稿日期：2022-06-27）
 
-[附录 1：G05 性别重置技术临床应用管理规范（2022 年版）](https://github.com/mtf-wiki/srs-legal-spec/tree/2022-04-20/README.md)
+[附录 1：G05 性别重置技术临床应用管理规范（2022 年版）](https://github.com/mtf-wiki/legal-spec/tree/2022-04-20/SRS)
 
 ## 参考文献
 
@@ -1077,7 +1077,7 @@ DSM-S 的诊断名称是“性别烦躁”，与 DSM-IV 中的“性与性身份
 [^29]: Smidova E. Group therapy program for families with transgendermember:propelling gender differentiation[J]. Psychology Re-search，2016，6（12）:735-747. <http://doi.org/10.17265/2159-5542/2016.12.004> **补充说明**：疑似撤稿
 [^30]: Chen EC, Boyd DM, Cunningham CA. Demarginalizing stigma-tized identities of transgender and gender nonconforming individ-uals through affirmative group therapy\[J]. International Journal of Group Psychotherapy, 2020, 11:1-27.<https://doi.org/10.1080/00207284.2020.1755291>
 [^31]: Milrod C. How young is too young；ethical concerns in genital sur-gery of the transgender MTF adolescent\[J].J Sex Med, 2014, 11 (2):338-346. <https://doi.org/10.1111/jsm.12387>
-[^32]: 中华人民共和国卫生健康委员会.性别重置技术管理规范\[R].2022. <http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144/files/15f8e6faf248490fa5534cd7b500feb2.pdf> <https://github.com/mtf-wiki/srs-legal-spec>
+[^32]: 中华人民共和国卫生健康委员会.性别重置技术管理规范\[R].2022. <http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144/files/15f8e6faf248490fa5534cd7b500feb2.pdf> <https://github.com/mtf-wiki/legal-spec/tree/2022-04-20/SRS>
 [^33]: Hembree WC, Cohen-Kettenis PT, Gooren L, et al. Endocrinetreatment of gender-dysphoric/gender-incongruent persons:An endocrine society clinical practice guideline\[J].J Clin Endocri-nol Metab, 2017, 102:3869-3903. <https://doi.org/10.1210/jc.2017-01658>
 [^34]: Mahfouda S，Moore JK，Siafarikas A，et al. Puberty suppression intransgender children and adolescents[J]. Lancet Diabetes Endo-crinol，2017，5（10）:816-826. <https://doi.org/10.1016/S2213-8587(17)30099-2>
 [^35]: Panagiotakopoulos L, Chulani V, Koyama A, et al. The effect ofearly puberty suppression on treatment options and outcomes in transgender patients\[J]. Nat Rev Urol, 2020, 17(11):626-636. <https://doi.org/10.1038/s41585-020-0372-2>

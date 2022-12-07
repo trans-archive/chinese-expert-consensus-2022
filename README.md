@@ -29,21 +29,25 @@ DOI: [10.3969/j.issn.1005-3220.2022.z1.001](https://doi.org/10.3969/j.issn.1005-
 
 - [《临床精神医学杂志》2022 年增刊文章概目](https://mp.weixin.qq.com/s/-6eydYCqNqlIh26AX4_zAw)
 
-  <https://archive.is/Zal7r>
+  微信公众号：临床精神医学杂志
 
-  <https://web.archive.org/web/20221030053741/https://mp.weixin.qq.com/s/-6eydYCqNqlIh26AX4_zAw>
+  [存档 1](https://archive.is/Zal7r) |
+  [存档 2](https://web.archive.org/web/20221030053741/https://mp.weixin.qq.com/s/-6eydYCqNqlIh26AX4_zAw) |
+  [存档 3](https://freewechat.com/a/MzU3NzQ1NDYwNw==/2247484122/2)
 
 - [【重要】首部中国易性症多学科诊疗专家共识发布](https://mp.weixin.qq.com/s/XTv0ji9GZEGbNpBt1mFWVQ)
 
-  <https://archive.is/8CS5z>
+  微信公众号：上海市浦东新区精神卫生中心
 
-  <https://web.archive.org/web/20221025020328/https://mp.weixin.qq.com/s/XTv0ji9GZEGbNpBt1mFWVQ>
+  [存档 1](https://archive.is/8CS5z) |
+  [存档 2](https://web.archive.org/web/20221025020328/https://mp.weixin.qq.com/s/XTv0ji9GZEGbNpBt1mFWVQ) |
+  [存档 3](https://freewechat.com/a/MzIzNTIzNTA2Mg==/2247485012/1)
 
-- [中国易性症多学科诊疗专家共识](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=LCJS2022S1001&uniplatform=NZKPT)（中国知网） [PDF 副本](LCJS2022S1001.pdf)
+- [中国易性症多学科诊疗专家共识](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=LCJS2022S1001&uniplatform=NZKPT)（中国知网）
 
-  <https://archive.is/wlPJi>
-
-  <https://web.archive.org/web/20221116113050/https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=LCJS2022S1001&uniplatform=NZKPT>
+  [存档 1](https://archive.is/wlPJi) |
+  [存档 2](https://web.archive.org/web/20221116113050/https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=LCJS2022S1001&uniplatform=NZKPT) |
+  [PDF 副本](LCJS2022S1001.pdf)
 
 ## LICENSE
 
